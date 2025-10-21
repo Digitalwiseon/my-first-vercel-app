@@ -1,0 +1,7 @@
+my-website/
+│
+├─ index.html
+├─ style.css
+├─ script.js
+└─ images/
+     └─ hero.jpg   (aap apni image daal sakte ho)
